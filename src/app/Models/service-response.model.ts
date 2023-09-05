@@ -1,6 +1,6 @@
 export class ServiceResponse {
     status!: string;
     message!: string;
-    excepcion!: string;
+    exception!: string;
     data!: string;
 }
